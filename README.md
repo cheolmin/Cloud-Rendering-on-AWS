@@ -1,2 +1,2 @@
-# Medialabs : Build Cloud Rendering on AWS
+# Lab #1. Setup
 
