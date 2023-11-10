@@ -2,10 +2,11 @@
 
 ## Lab 1. Overview
 
-* [1.1. Architecture](README.md)
-* [Page](lab-1.-overview/page.md)
+* [1.1. Cloud Rendering on AWS](README.md)
+* [1.2. Architecture](lab-1.-overview/1.2.-architecture.md)
 
-***
+## Group 1
 
-* [Lab 1.](lab-1./README.md)
-  * [Medialabs : Build Cloud Rendering on AWS](lab-1./init.md)
+* [2.1. Prerequisites](group-1/2.1.-prerequisites.md)
+* [2.2. Deployment](group-1/2.2.-deployment.md)
+* [Page](group-1/page.md)
