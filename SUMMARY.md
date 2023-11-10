@@ -1,8 +1,9 @@
 # Table of contents
 
-## Group 1
+## Lab 1. Overview
 
-* [Lab #1. Setup](README.md)
+* [1.1. Architecture](README.md)
+* [Page](lab-1.-overview/page.md)
 
 ***
 

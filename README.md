@@ -1,2 +1,4 @@
-# Lab #1. Setup
+# 1.1. Architecture
+
+≈
 
