@@ -11,7 +11,7 @@
 * [2.3. NICEDCV Setup](lab-2.-hands-on-renderfarm-on-aws/2.3.-nicedcv-setup.md)
 * [2.4. Blender Setup](lab-2.-hands-on-renderfarm-on-aws/2.4.-blender-setup.md)
 * [2.5. Thinkbox Deadline Setup](lab-2.-hands-on-renderfarm-on-aws/2.5.-thinkbox-deadline-setup.md)
-* [2.6. Thinkbox Deadline Test](lab-2.-hands-on-renderfarm-on-aws/2.6.-thinkbox-deadline-test.md)
+* [2.6. Rendering Test](lab-2.-hands-on-renderfarm-on-aws/2.6.-rendering-test.md)
 
 ## Troubleshooting
 
