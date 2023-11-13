@@ -8,7 +8,7 @@
 
 AWS에서는 렌더팜의 유연한 컴퓨팅 관리를 위해 Thinkbox Deadline을 제공합니다.
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Thinkbox Deadline은 Windows, Linux 및 macOS 기반 렌더팜을 위한 관리 및 컴퓨팅 관리 툴킷입니다. Thinkbox Deadline에는 몇가지 특징 및 장점이 있습니다.\
 
