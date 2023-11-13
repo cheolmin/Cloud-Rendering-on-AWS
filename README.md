@@ -8,7 +8,7 @@
 
 AWS에서는 렌더팜의 유연한 컴퓨팅 관리를 위해 Thinkbox Deadline을 제공합니다.
 
-<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Thinkbox Deadline은 Windows, Linux 및 macOS 기반 렌더팜을 위한 관리 및 컴퓨팅 관리 툴킷입니다. Thinkbox Deadline에는 몇가지 특징 및 장점이 있습니다.\
 
@@ -21,7 +21,7 @@ Thinkbox Deadline은 Windows, Linux 및 macOS 기반 렌더팜을 위한 관리 
 
 ### Renderfarm on AWS
 
-<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -51,7 +51,7 @@ Thinkbox Deadline 렌더팜 관리 시스템은 다음과 같은 세 가지 구�
     * License Forwarder : 타사 사용 기반 라이센싱을 사용할 때 타사 응용 프로그램의 라이센스 서버 역할을 하는 어플리케이션
     * Web service : 모바일 사용과 같이 인터넷 연결을 통해 데드라인에서 쿼리 정보를 가져올 수 있는 어플리케이션
 
-<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 데이터베이스와 리포지토리는 Deadline의 모든 데이터가 저장되는 글로벌 시스템 역할을 수행합니다.
 
@@ -69,5 +69,5 @@ Thinkbox Deadline 렌더팜 관리 시스템은 다음과 같은 세 가지 구�
 
 ### Deadline 미리보기
 
-<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
