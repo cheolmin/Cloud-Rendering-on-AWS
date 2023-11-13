@@ -53,3 +53,11 @@ Thinkbox Deadline 렌더팜 관리 시스템은 다음과 같은 세 가지 구�
 
 데이터베이스와 리포지토리가 함께 작동하지만, 개별 구성 요소이므로, 원하는 경우 별도의 시스템에 설치할 수 있습니다.
 
+
+
+### 지원 소프트웨어 목록
+
+[https://docs.thinkboxsoftware.com/products/deadline/10.3/1\_User%20Manual/manual/supported-software.html#supported-software-ref-label](https://docs.thinkboxsoftware.com/products/deadline/10.3/1\_User%20Manual/manual/supported-software.html#supported-software-ref-label)
+
+
+
