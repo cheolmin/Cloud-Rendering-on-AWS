@@ -6,7 +6,7 @@
 
 ## LAB 2. Hands-on : Renderfarm on AWS
 
-* [2.1. Architecture](lab-2.-hands-on-renderfarm-on-aws/2.1.-architecture.md)
+* [2.1. Architecture](lab-1.-overview/1.2.-architecture.md)
 * [2.1. Prerequisites](group-1/2.1.-prerequisites.md)
 * [2.2. Deployment](group-1/2.2.-deployment.md)
 * [Page 1](group-1/page-1.md)
