@@ -61,11 +61,39 @@ Thinkbox Deadline 렌더팜 관리 시스템은 다음과 같은 세 가지 구�
 
 
 
+### Deadline 구조
+
+<figure><img src=".gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+
+
+
 ### 지원 소프트웨어 목록
 
 [https://docs.thinkboxsoftware.com/products/deadline/10.3/1\_User%20Manual/manual/supported-software.html#supported-software-ref-label](https://docs.thinkboxsoftware.com/products/deadline/10.3/1\_User%20Manual/manual/supported-software.html#supported-software-ref-label)
 
 
+
+
+
+### 렌더팜 구성 방법
+
+1. On-premise
+
+<figure><img src=".gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+
+2. Hybrid Renderfarm (Deadline AWS Portal)
+
+<figure><img src=".gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+
+3. Hybrid Renderfarm (Spot Event Plugin)
+
+<figure><img src=".gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+
+4. Studio in the cloud
+
+<figure><img src=".gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+
+###
 
 ### Deadline 미리보기
 
