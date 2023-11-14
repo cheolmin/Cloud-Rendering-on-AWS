@@ -2,7 +2,8 @@
 
 ## Lab 1. Overview
 
-* [1.1. Cloud Rendering on AWS](README.md)
+* [1.1. Rendering Overview](README.md)
+* [1.2. Cloud Rendering on AWS](lab-1.-overview/1.2.-cloud-rendering-on-aws.md)
 
 ## LAB 2. Hands-on : Renderfarm on AWS
 
