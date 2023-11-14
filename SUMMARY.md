@@ -15,7 +15,7 @@
 
 ***
 
-* [Clean-up](clean-up.md)
+* [3.1. Clean-up](3.1.-clean-up.md)
 
 ## Troubleshooting
 
