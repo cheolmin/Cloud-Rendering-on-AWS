@@ -27,3 +27,5 @@ Rendering : 3D 모델링 된 이미지를 하나의 완성된 장면으로 만�
 <figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/그림1.gif" alt=""><figcaption></figcaption></figure>
